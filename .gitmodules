@@ -1,0 +1,3 @@
+[submodule "hadoop-log-analyzer-dpa-project"]
+	path = hadoop-log-analyzer-dpa-project
+	url = git@github.com:mariosakka/hadoop-log-analyzer-dpa-project.git
